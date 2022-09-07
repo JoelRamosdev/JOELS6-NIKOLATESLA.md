@@ -1,4 +1,6 @@
-![foto Tesla](Tesla.PNG)
+<div Tesla="center">
+<img src="https://user-images.githubusercontent.com/112489062/188945630-4ff045a0-85c3-48fd-9527-7ca82af9d10a.png" width="200px" />
+</div>
 
 ## NIKOLA TESLA
 
